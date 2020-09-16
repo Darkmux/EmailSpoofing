@@ -9,4 +9,4 @@ chmod 711 EmailSpoofing.sh
 #
 ./EmailSpoofing.sh
 #
-# Created by: Termux Hacking
+# Created by: Informatic_in_Termux
